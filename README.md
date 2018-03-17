@@ -11,7 +11,10 @@
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/LogisticRegression/SVM.ipynb">SVM</a>
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/decisionTree/decisionTree.ipynb">决策树</a>
+<br />
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/RandomForest/RandomForest.ipynb">随机森林</a>
+<br />
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/Adaboost/Adaboost.ipynb">Adaboost</a>
 
 
 
