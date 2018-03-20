@@ -6,6 +6,8 @@
 <br/>
 持续更新....
 <br/>
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/BASE/BASE.ipynb">机器学习相关概念/公式</a>
+<br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/LogisticRegression/LogisticRegression.ipynb">逻辑斯谛回归(LR)</a>
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/LogisticRegression/SVM.ipynb">SVM</a>
@@ -15,6 +17,9 @@
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/RandomForest/RandomForest.ipynb">随机森林</a>
 <br />
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/Adaboost/Adaboost.ipynb">Adaboost</a>
+<br/>
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/GBDT/GBDT.ipynb">GBDT</a>
+<br/>
 
 
 
