@@ -20,6 +20,7 @@
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/GBDT/GBDT.ipynb">GBDT</a>
 <br/>
-
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/XGBoost/XGBoost.ipynb">XGBoost</a>
+<br/>
 
 
