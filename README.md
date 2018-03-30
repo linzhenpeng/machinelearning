@@ -8,6 +8,8 @@
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/BASE/BASE.ipynb">机器学习相关概念/公式</a>
 <br/>
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/BASE/DataVisualization.ipynb">数据可视化</a>
+<br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/LogisticRegression/LogisticRegression.ipynb">逻辑斯谛回归(LR)</a>
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/LogisticRegression/SVM.ipynb">SVM</a>
@@ -22,5 +24,8 @@
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/XGBoost/XGBoost.ipynb">XGBoost</a>
 <br/>
-
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/RecommendationSystem/RecommendationSystem.ipynb">RecommendationSystem</a>
+<br/>
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/FM/FM.ipynb">FM</a>
+<br/>
 
