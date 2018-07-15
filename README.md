@@ -7,6 +7,7 @@
 持续更新....
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/BASE/BASE.ipynb">机器学习相关概念/公式</a>
+<a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/DataGame">比赛</a>
 <br/>
 <a target="_blank" href="https://github.com/linzhenpeng/machinelearning/blob/master/BASE/DataVisualization.ipynb">数据可视化</a>
 <br/>
